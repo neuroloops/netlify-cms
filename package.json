@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@mapbox/rehype-prism": "^0.6.0",
+    "@netlify/plugin-nextjs": "^4.12.2",
     "@svgr/webpack": "^5.5.0",
     "@types/js-yaml": "^4.0.0",
+    "caniuse-lite": "^1.0.30001367",
     "date-fns": "^2.19.0",
     "gray-matter": "^4.0.2",
     "js-yaml": "^4.0.0",
